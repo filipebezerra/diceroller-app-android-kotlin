@@ -8,11 +8,6 @@ Dice Roller app is simple game of rolling dice in your smartphone.
 
 <div>
     <img src="./art/showcase/phone-portrait-showcase-01.png" heigth="640" width="326">
-    <img src="./art/showcase/phone-portrait-showcase-02.png" heigth="640" width="326">
-</div>
-<div>
-    <img src="./art/showcase/phone-landscape-showcase-01.png" heigth="326" width="640">
-    <img src="./art/showcase/phone-landscape-showcase-02.png" heigth="326" width="640">
 </div>
 
 ## Live Running
