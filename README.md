@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Dice Roller app is simple game of rolling dice in your smartphone.
+Dice Roller app is simple game of rolling dice in your smartphone. It was created while I've been continuously learning Android Kotlin Development at Udacity Nanodegree.
 
 ## Showcase
 
